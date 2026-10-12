@@ -1,0 +1,13 @@
+{
+  "name": "@app/contracts",
+  "version": "1.0.0",
+  "description": "Libreria de contratos de eventos compartidos para la POC de Kafka",
+  "main": "index.ts",
+  "types": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
